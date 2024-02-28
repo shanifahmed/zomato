@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1. CREATE HEADER & genarate components
 2. added HTML.
 3. added css.
+4.create home component
+5.install npm i starrating
